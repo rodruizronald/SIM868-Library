@@ -4,7 +4,7 @@ This library provides full functionality of the SIM868 wireless module. Some of 
 
 ## Project
 
-This library was part of a vehicle GPS tracking device for public transport unit. The microcontroller choosen for the aplication was the Cypress PSoC 5LP, a Cortex-M3 programmable system on chip device.
+This library was part of a vehicle GPS tracking device for public transport units. The microcontroller chosen for the application was the Cypress PSoC 5LP, a Cortex-M3 programmable system on chip device.
 
 <p align="center">
   <img src="img/schematic.png">
