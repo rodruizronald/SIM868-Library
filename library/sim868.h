@@ -20,7 +20,7 @@
 //*****************************************************************************
 //
 //  The following are defines for the hardware API. These definitions should be
-//  modified based on the MCU hadware-software interface for UART and GPIO.
+//  modified based on the MCU hadware/software interface for UART and GPIO.
 //
 //*****************************************************************************
 
