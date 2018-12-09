@@ -17,6 +17,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <stdint.h>
 #include <stdbool.h>
 #include <string.h>
 #include "sim868.h"
@@ -211,7 +212,7 @@ const static uint8_t g_last_day_month[] =
 
 //*****************************************************************************
 //
-//  Prototypes for private functions.
+//  Prototypes for the private functions.
 //
 //*****************************************************************************
 
